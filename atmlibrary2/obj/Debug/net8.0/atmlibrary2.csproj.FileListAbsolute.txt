@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\atmlibrary2\bin\Debug\net8.0\atmlibrary2.deps.json
+C:\Users\Admin\source\repos\atmlibrary2\bin\Debug\net8.0\atmlibrary2.dll
+C:\Users\Admin\source\repos\atmlibrary2\bin\Debug\net8.0\atmlibrary2.pdb
+C:\Users\Admin\source\repos\atmlibrary2\obj\Debug\net8.0\atmlibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\atmlibrary2\obj\Debug\net8.0\atmlibrary2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\atmlibrary2\obj\Debug\net8.0\atmlibrary2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\atmlibrary2\obj\Debug\net8.0\atmlibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\atmlibrary2\obj\Debug\net8.0\atmlibrary2.dll
+C:\Users\Admin\source\repos\atmlibrary2\obj\Debug\net8.0\refint\atmlibrary2.dll
+C:\Users\Admin\source\repos\atmlibrary2\obj\Debug\net8.0\atmlibrary2.pdb
+C:\Users\Admin\source\repos\atmlibrary2\obj\Debug\net8.0\ref\atmlibrary2.dll
